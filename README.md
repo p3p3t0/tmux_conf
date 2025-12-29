@@ -21,7 +21,8 @@ To set up the tmux configuration, follow these steps:
 
 3. Start tmux with the new configuration:
 ```bash
-	tmux -f ~/.tmux.conf ```
+	tmux -f ~/.tmux.conf 
+```
 
 That's it! Enjoy your tmux with mouse interactivity!
 
