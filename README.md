@@ -14,11 +14,11 @@ To set up the tmux configuration, follow these steps:
    ```bash
    git clone https://github.com/p3p3t0/tmux_conf.git
 ```
-Copy the tmux.conf file to your home directory:
+2. Copy the tmux.conf file to your home directory:
 ```bash
 cp tmux.conf ~/.tmux.conf
 ```
-Start tmux with the new configuration:
+3. Start tmux with the new configuration:
 ```bash
 tmux -f ~/.tmux.conf
 ```
